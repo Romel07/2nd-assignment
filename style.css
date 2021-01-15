@@ -9,3 +9,7 @@ button{
 .yellow-color{
     color: #FABE4C;
 }
+.my-font{
+    font-size: 100px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
